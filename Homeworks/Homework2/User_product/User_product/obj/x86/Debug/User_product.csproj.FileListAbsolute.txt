@@ -1,0 +1,15 @@
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\bin\Debug\User_product.exe.config
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\bin\Debug\User_product.exe
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\bin\Debug\User_product.pdb
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\User_product_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\_User_product.g.cs
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\Workflow1.g.cs
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\User_product_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\User_product.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\User_product.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\User_product.dll
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\User_product.pdb
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\User_product.exe
+C:\Users\Aren\documents\visual studio 2015\Projects\User_product\User_product\obj\x86\Debug\User_product.csproj.FileListAbsolute.txt
