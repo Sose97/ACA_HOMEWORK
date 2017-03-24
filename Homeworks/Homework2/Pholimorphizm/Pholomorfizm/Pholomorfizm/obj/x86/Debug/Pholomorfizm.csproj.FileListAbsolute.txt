@@ -1,0 +1,16 @@
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\bin\Debug\Pholomorfizm.exe.config
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\bin\Debug\Pholomorfizm.exe
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\bin\Debug\Pholomorfizm.pdb
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Pholomorfizm.csprojResolveAssemblyReference.cache
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Workflow1.g.xaml
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Pholomorfizm_Workflow1_BeforeInitializeComponentHelper.txt
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\_Pholomorfizm.g.cs
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Workflow1.g.cs
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Pholomorfizm_Workflow1_BeforeInitializeComponentHelper.cs
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Pholomorfizm.csproj.XamlGeneratedCodeFileListAbsolute.txt
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Pholomorfizm.csproj.XamlGeneratedXamlFileListAbsolute.txt
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Pholomorfizm.csproj.FileListAbsolute.txt
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Pholomorfizm.dll
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Pholomorfizm.pdb
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+c:\users\aren\documents\visual studio 2015\Projects\Pholomorfizm\Pholomorfizm\obj\x86\Debug\Pholomorfizm.exe
