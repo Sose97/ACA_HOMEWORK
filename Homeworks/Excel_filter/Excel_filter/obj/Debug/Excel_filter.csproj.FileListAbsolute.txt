@@ -1,0 +1,6 @@
+c:\users\aren\documents\visual studio 2015\Projects\Excel_filter\Excel_filter\bin\Debug\Excel_filter.exe.config
+c:\users\aren\documents\visual studio 2015\Projects\Excel_filter\Excel_filter\bin\Debug\Excel_filter.exe
+c:\users\aren\documents\visual studio 2015\Projects\Excel_filter\Excel_filter\bin\Debug\Excel_filter.pdb
+c:\users\aren\documents\visual studio 2015\Projects\Excel_filter\Excel_filter\obj\Debug\Excel_filter.csprojResolveAssemblyReference.cache
+c:\users\aren\documents\visual studio 2015\Projects\Excel_filter\Excel_filter\obj\Debug\Excel_filter.exe
+c:\users\aren\documents\visual studio 2015\Projects\Excel_filter\Excel_filter\obj\Debug\Excel_filter.pdb
