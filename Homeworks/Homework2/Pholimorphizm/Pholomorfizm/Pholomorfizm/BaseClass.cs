@@ -10,7 +10,7 @@ namespace Pholomorfizm
     {
         public void method1()
         {
-            Console.WriteLine("Base method");
+            Console.WriteLine("Basse method");
         }
     };
 
